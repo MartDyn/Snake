@@ -1,3 +1,3 @@
 # Snake
 
-School project for learning C++.
+Final project for C++ class.
